@@ -1,0 +1,31 @@
+/*--------------------------------------------------------------
+5.0 - UTILITY
+-------------------------------------------------------------- */
+/*-- 5.1 - Background Colors/Colors --*/
+.title, body > header a {
+  color: #e6e6e6; }
+
+i {
+  color: #CCCCCC; }
+
+.fa-twitter:hover {
+  color: #1DA1F2; }
+
+.fa-github:hover, body, a {
+  color: #404040; }
+
+.fa-linkedin:hover {
+  color: #0077B5; }
+
+.main-nav a:hover, .mobile-nav a:hover, .fa-bars:hover, .title a:hover, .article-item:hover .article-preview-title, .underline-bb:hover, .contact-h li a:hover {
+  color: #71B6FC;
+  border-color: #71B6FC; }
+
+.article-item a {
+  background-color: transparent; }
+
+.mobile-nav {
+  background-color: #F4F2F0; }
+
+.bkgrd-grey {
+  background-color: #404040; }
